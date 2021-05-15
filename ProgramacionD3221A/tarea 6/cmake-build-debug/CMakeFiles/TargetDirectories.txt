@@ -1,0 +1,3 @@
+D:/proyectos/ProgramacionD3221A/tarea 6/cmake-build-debug/CMakeFiles/tarea_6.dir
+D:/proyectos/ProgramacionD3221A/tarea 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proyectos/ProgramacionD3221A/tarea 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

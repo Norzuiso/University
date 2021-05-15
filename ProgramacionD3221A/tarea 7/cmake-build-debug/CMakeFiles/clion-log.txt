@@ -1,0 +1,42 @@
+C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\josue_aguilar\Desktop\Proyects\Programación\tarea 7"
+-- The C compiler identification is MSVC 19.23.28107.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe - broken
+CMake Error at C:/Users/josue_aguilar/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.6693.114/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.23.28105/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/josue_aguilar/Desktop/Proyects/ProgramaciÃ³n/tarea 7/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):nmake /nologo cmTC_546fb\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_546fb.dir\build.make /nologo -L                  CMakeFiles\cmTC_546fb.dir\build
+    Building C object CMakeFiles/cmTC_546fb.dir/testCCompiler.c.obj
+    	C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @C:\Users\JOSUE_~1\AppData\Local\Temp\nmDFD4.tmp
+    testCCompiler.c
+    Linking C executable cmTC_546fb.exe
+    	C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_546fb.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_546fb.dir\objects1.rsp @C:\Users\JOSUE_~1\AppData\Local\Temp\nmE023.tmp
+    LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_546fb.dir\objects1.rsp /out:cmTC_546fb.exe /implib:cmTC_546fb.lib /pdb:C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 7\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_546fb.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_546fb.dir/intermediate.manifest CMakeFiles\cmTC_546fb.dir/manifest.res" failed (exit code 1201) with the following output:
+    LINK : fatal error LNK1201: error al escribir en la base de datos del programa 'C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 7\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_546fb.pdb'; compruebe si tiene suficiente espacio en disco, si la ruta es vÃŸlida o si tiene privilegios suficientes
+    NMAKE : fatal error U1077: 'C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe' : cÂ¾digo devuelto '0xffffffff'
+    Stop.
+    NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"' : cÂ¾digo devuelto '0x2'
+    Stop.
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/josue_aguilar/Desktop/Proyects/ProgramaciÃ³n/tarea 7/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/josue_aguilar/Desktop/Proyects/ProgramaciÃ³n/tarea 7/cmake-build-debug/CMakeFiles/CMakeError.log".

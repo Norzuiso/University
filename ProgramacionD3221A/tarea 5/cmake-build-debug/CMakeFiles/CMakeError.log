@@ -1,0 +1,74 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/josue_aguilar/Desktop/Proyects/Programación/tarea 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_32be2\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_32be2.dir\build.make /nologo -L                  CMakeFiles\cmTC_32be2.dir\build
+Building C object CMakeFiles/cmTC_32be2.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @C:\Users\JOSUE_~1\AppData\Local\Temp\nmA175.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_32be2.exe
+	C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_32be2.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_32be2.dir\objects1.rsp @C:\Users\JOSUE_~1\AppData\Local\Temp\nmA1D4.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_32be2.dir\objects1.rsp /out:cmTC_32be2.exe /implib:cmTC_32be2.lib /pdb:C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_32be2.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_32be2.dir/intermediate.manifest CMakeFiles\cmTC_32be2.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: error al escribir en la base de datos del programa 'C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_32be2.pdb'; compruebe si tiene suficiente espacio en disco, si la ruta es vßlida o si tiene privilegios suficientes
+NMAKE : fatal error U1077: 'C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe' : c¾digo devuelto '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"' : c¾digo devuelto '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/josue_aguilar/Desktop/Proyects/Programación/tarea 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d7618\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d7618.dir\build.make /nologo -L                  CMakeFiles\cmTC_d7618.dir\build
+Building C object CMakeFiles/cmTC_d7618.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @C:\Users\JOSUE_~1\AppData\Local\Temp\nmA2DC.tmp
+testCCompiler.c
+Linking C executable cmTC_d7618.exe
+	C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_d7618.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d7618.dir\objects1.rsp @C:\Users\JOSUE_~1\AppData\Local\Temp\nmA34B.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d7618.dir\objects1.rsp /out:cmTC_d7618.exe /implib:cmTC_d7618.lib /pdb:C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_d7618.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_d7618.dir/intermediate.manifest CMakeFiles\cmTC_d7618.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: error al escribir en la base de datos del programa 'C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_d7618.pdb'; compruebe si tiene suficiente espacio en disco, si la ruta es vßlida o si tiene privilegios suficientes
+NMAKE : fatal error U1077: 'C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe' : c¾digo devuelto '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"' : c¾digo devuelto '0x2'
+Stop.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/josue_aguilar/Desktop/Proyects/Programación/tarea 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f4915\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_f4915.dir\build.make /nologo -L                  CMakeFiles\cmTC_f4915.dir\build
+Building C object CMakeFiles/cmTC_f4915.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @C:\Users\JOSUE_~1\AppData\Local\Temp\nm2106.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_f4915.exe
+	C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_f4915.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f4915.dir\objects1.rsp @C:\Users\JOSUE_~1\AppData\Local\Temp\nm2156.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f4915.dir\objects1.rsp /out:cmTC_f4915.exe /implib:cmTC_f4915.lib /pdb:C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_f4915.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_f4915.dir/intermediate.manifest CMakeFiles\cmTC_f4915.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: error al escribir en la base de datos del programa 'C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_f4915.pdb'; compruebe si tiene suficiente espacio en disco, si la ruta es vßlida o si tiene privilegios suficientes
+NMAKE : fatal error U1077: 'C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe' : c¾digo devuelto '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"' : c¾digo devuelto '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/josue_aguilar/Desktop/Proyects/Programación/tarea 5/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_531e7\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_531e7.dir\build.make /nologo -L                  CMakeFiles\cmTC_531e7.dir\build
+Building C object CMakeFiles/cmTC_531e7.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\cl.exe @C:\Users\JOSUE_~1\AppData\Local\Temp\nm225E.tmp
+testCCompiler.c
+Linking C executable cmTC_531e7.exe
+	C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_531e7.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_531e7.dir\objects1.rsp @C:\Users\JOSUE_~1\AppData\Local\Temp\nm231B.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~4\2019\ENTERP~1\VC\Tools\MSVC\1423~1.281\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_531e7.dir\objects1.rsp /out:cmTC_531e7.exe /implib:cmTC_531e7.lib /pdb:C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_531e7.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_531e7.dir/intermediate.manifest CMakeFiles\cmTC_531e7.dir/manifest.res" failed (exit code 1201) with the following output:
+LINK : fatal error LNK1201: error al escribir en la base de datos del programa 'C:\Users\josue_aguilar\Desktop\Proyects\Programaci?n\tarea 5\cmake-build-debug\CMakeFiles\CMakeTmp\cmTC_531e7.pdb'; compruebe si tiene suficiente espacio en disco, si la ruta es vßlida o si tiene privilegios suficientes
+NMAKE : fatal error U1077: 'C:\Users\josue_aguilar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe' : c¾digo devuelto '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.23.28105\bin\HostX86\x86\nmake.exe"' : c¾digo devuelto '0x2'
+Stop.
+
+
+
