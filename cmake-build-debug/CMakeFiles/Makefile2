@@ -62,10 +62,10 @@ RM = C:\Users\josue\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\proyectos\University\Seminario de solucion de problemas de Programacion\Exercise-13"
+CMAKE_SOURCE_DIR = D:\proyectos\University
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\proyectos\University\Seminario de solucion de problemas de Programacion\Exercise-13\cmake-build-debug"
+CMAKE_BINARY_DIR = D:\proyectos\University\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -92,14 +92,14 @@ clean: CMakeFiles/Exercise_13.dir/clean
 CMakeFiles/Exercise_13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercise_13.dir\build.make CMakeFiles/Exercise_13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Exercise_13.dir\build.make CMakeFiles/Exercise_13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\proyectos\University\Seminario de solucion de problemas de Programacion\Exercise-13\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Exercise_13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\proyectos\University\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Exercise_13"
 .PHONY : CMakeFiles/Exercise_13.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Exercise_13.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\proyectos\University\Seminario de solucion de problemas de Programacion\Exercise-13\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\proyectos\University\cmake-build-debug\CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Exercise_13.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\proyectos\University\Seminario de solucion de problemas de Programacion\Exercise-13\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\proyectos\University\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/Exercise_13.dir/rule
 
 # Convenience name for target.

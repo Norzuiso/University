@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-D:/proyectos/University/Seminario de solucion de problemas de Programacion/Exercise-13/main.c
+D:/proyectos/University/main.c
 stdio.h
+-
+stdlib.h
 -
 math.h
 -
