@@ -1,3 +1,3 @@
-D:/proyectos/University/Seminario de solucion de problemas de Programacion/Exercise-13/cmake-build-debug/CMakeFiles/Exercise_13.dir
-D:/proyectos/University/Seminario de solucion de problemas de Programacion/Exercise-13/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/proyectos/University/Seminario de solucion de problemas de Programacion/Exercise-13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/proyectos/University/cmake-build-debug/CMakeFiles/Exercise_13.dir
+D:/proyectos/University/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proyectos/University/cmake-build-debug/CMakeFiles/rebuild_cache.dir
