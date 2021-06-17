@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\Debug\Practica8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Practica8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Practica8.map</FILE>
+  <FILE>Practica8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\main.asm</FILE><LINE>15</LINE></start>
+  <RESTART><FILE>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\main.asm</FILE><LINE>23</LINE></RESTART>
+  <COUNTER><FILE>D:\proyectos\University\Seminario de solucion de problemas de arquitectura de computadoras\Practica 8\Practica8\Practica8\main.asm</FILE><LINE>26</LINE></COUNTER>
+ </LABELS>
+</ASSEMBLER_INFO>

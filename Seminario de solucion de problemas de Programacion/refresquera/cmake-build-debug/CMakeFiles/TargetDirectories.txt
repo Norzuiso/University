@@ -1,0 +1,3 @@
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/refresquera/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/refresquera/cmake-build-debug/CMakeFiles/refresquera.dir
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/refresquera/cmake-build-debug/CMakeFiles/rebuild_cache.dir

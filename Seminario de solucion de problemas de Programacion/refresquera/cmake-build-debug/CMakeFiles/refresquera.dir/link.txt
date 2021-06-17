@@ -1,0 +1,3 @@
+C:\Users\josue\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\refresquera.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\refresquera.dir/objects.a @CMakeFiles\refresquera.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\refresquera.dir/objects.a -Wl,--no-whole-archive -o refresquera.exe -Wl,--out-implib,librefresquera.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\refresquera.dir\linklibs.rsp

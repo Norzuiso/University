@@ -33,9 +33,8 @@ Terminar el código, el programa “Base de datos Refresquera”, con registros,
 #include<stdio.h>
 #include <stdlib.h>
 #include <Windows.h>
-#include <string.h>
 
-static char *const WELCOME_MESSAGE = "\n\nBienvenido a la refresquera el amigo\n\n";
+static char *const WELCOME_MESSAGE = "Bienvenido a la refresquera el amigo\n\n";
 
 static char *const PASSWORD = "1234";
 
@@ -64,88 +63,57 @@ enum Vowels {
     ASCII_I_CODE = 161,
     ASCII_O_CODE = 162,
     ASCII_U_CODE = 163,
-    ASCII_N_TILDE_CODE = 164,
 
 };
 
 void showMenu();
-
 void Color(int Background, int Text);
 
-void access();
-
-void clearScreen();
-
-void options(char opt);
-
 int main() {
-    Color(WHITE, BLACK);
-    clearScreen();
-    access();
+
+    do {
+        Color(BLACK, WHITE);
+        printf("Ingresa la contraseña para continuar: ");
+        scanf("%s", &tryPassword);
+        printf(tryPassword);
+
+        if(tryPassword == PASSWORD){
+            Color(WHITE, GREEN);
+            printf(WELCOME_MESSAGE);
+            showMenu();
+        }else{
+            Color(WHITE, RED);
+            printf("Contraseña incorrecta, intenta de nuevo\n");
+            tryPassword="";
+        }
+        printf(tryPassword);
+    }while(tryPassword != PASSWORD);
     return 0;
 }
 
-void access() {
-    char tryPassword[4];
-    do {
-        Color(WHITE, BLACK);
-        printf("Ingresa la contrase%ca para continuar: ", ASCII_N_TILDE_CODE);
-        scanf("%s", &tryPassword);
-
-        if (strcmp(tryPassword, "1234") == 0) {
-            showMenu();
-        } else {
-            Color(WHITE, RED);
-            printf("\nContrase%ca incorrecta, intenta de nuevo\n", ASCII_N_TILDE_CODE);
-            strcpy(tryPassword, "");
-        }
-        clearScreen();
-    } while (strcmp(tryPassword, "1234") != 0);
-}
-
 void showMenu() {
-    Color(WHITE, GREEN);
-    printf(WELCOME_MESSAGE);
-
     char opt;
-    do {
-
-        Color(WHITE, BLUE);
-        printf("\n\t\tMen%c\t\n\n", ASCII_U_CODE);
-        printf("\t1.- Capturar\n\t2.- Mostrar\n\t3.- Buscar\n\t4.- Salir\n\nElige una Opci%cn:", ASCII_O_CODE);
-        scanf("%c", &opt);
-        options(opt);
-    } while (opt != '4');
-}
-
-void options(char opt) {
-    switch (opt) {
+    Color(WHITE, BLACK);
+    printf("\n\t\tMen%c\t\n\n",ASCII_U_CODE);
+    printf("\t1.- Capturar\n\t2.- Mostrar\n\t3.- Buscar\n\t4.- Salir\n\nElige una Opci%cn:", ASCII_O_CODE);
+    scanf("%c", &opt);
+    Color(BLACK, WHITE);
+    switch(opt){
         case '1':
-            clearScreen();
             break;
         case '2':
-            clearScreen();
             break;
         case '3':
-            clearScreen();
             break;
         case '4':
-            printf("\n\nGracias por usar :D\n");
-            clearScreen();
             break;
         default:
-            clearScreen();
             break;
     }
 }
 
-void Color(int Background, int Text) {
+void Color(int Background, int Text){
     HANDLE Console = GetStdHandle(STD_OUTPUT_HANDLE);
-    int New_Color = Text + (Background * 16);
+    int    New_Color= Text + (Background * 16);
     SetConsoleTextAttribute(Console, New_Color | BACKGROUND_INTENSITY);
-}
-
-void clearScreen() {
-    system("PAUSE");
-    system("CLS");
 }
