@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\proyectos\University\Seminario de solucion de problemas de Programacion\inventario Select CMakeLists.txt

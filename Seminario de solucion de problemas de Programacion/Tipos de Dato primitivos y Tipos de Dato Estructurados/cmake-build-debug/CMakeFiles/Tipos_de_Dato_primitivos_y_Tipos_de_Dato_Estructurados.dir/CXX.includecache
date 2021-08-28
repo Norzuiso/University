@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/Tipos de Dato primitivos y Tipos de Dato Estructurados/main.cpp
+cstdlib
+-
+iostream
+-
+iomanip
+-
+list
+-
+

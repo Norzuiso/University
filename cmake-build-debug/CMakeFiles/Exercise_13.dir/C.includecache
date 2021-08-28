@@ -7,14 +7,16 @@
 #IncludeRegexTransform: 
 
 D:/proyectos/University/main.c
-conio.h
--
 stdio.h
 -
 stdlib.h
 -
-Windows.h
--
 string.h
+-
+windows.h
+-
+conio.h
+-
+time.h
 -
 

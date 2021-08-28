@@ -1,0 +1,3 @@
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proyectos/University/Seminario de solucion de problemas de Programacion/Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4488b2c8-29c2-44b7-ba91-ffbfbe7e82ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstructuraDeDatos/inventory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/Tipos de Dato primitivos y Tipos de Dato Estructurados.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/Entities/menu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/Entities/menu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/Tipos_de_Dato_primitivos_y_Tipos_de_Dato_Estructurados.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipos de Dato primitivos y Tipos de Dato Estructurados/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inventario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/.idea/inventario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/inventario.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/inventario.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/cmake-build-debug/inventario.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/entity/product.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inventory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refresquera/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../refresquera/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refresquera/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../refresquera/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/main.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Exercise_13.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Exercise_13.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Exercise_13.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../main.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1wwon56HjKJOob5YWsmTmFVb8oD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../EstructuraDeDatos/inventory" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4488b2c8-29c2-44b7-ba91-ffbfbe7e82ad" name="Default Changelist" comment="" />
+      <created>1629379182726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629379182726</updated>
+      <workItem from="1629379186820" duration="53000" />
+      <workItem from="1629646582656" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
