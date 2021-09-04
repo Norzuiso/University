@@ -12,90 +12,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba8d7a62-2bcc-4f1e-8c6b-52de38d99d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GenericTypeTest.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenericTypeTest.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/ListException.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeCache.txt.tmp1bd54" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/linklibs.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/model/dto/Song.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/objects1.rsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/CMakeFiles/radioStation.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/builder/radioStation.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/cmake-build-debug/radioStation.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/exceptions/ListException.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/MenuLogic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/MenuLogic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/RadioStationLogic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/RadioStationLogic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/SongLogic.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/SongLogic.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/utils/Utils.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/logic/utils/Utils.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/model/dto/List.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/model/dto/Menu.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/model/dto/Menu.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/model/dto/Song.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../radioStation/model/dto/Song.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/linklibs.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/objects1.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/CMakeFiles/tarea_2.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SSP-EstructuraDeDatos/Tarea-2/cmake-build-debug/tarea_2.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/inventory.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/builder/inventory.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/inventory.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/inventory.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logic/InventoryLogic.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/logic/InventoryLogic.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logic/InventoryLogic.h" beforeDir="false" afterPath="$PROJECT_DIR$/logic/InventoryLogic.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +136,7 @@
       <workItem from="1630289194543" duration="170000" />
       <workItem from="1630290804430" duration="2107000" />
       <workItem from="1630633115113" duration="760000" />
-      <workItem from="1630718324724" duration="844000" />
+      <workItem from="1630718324724" duration="1518000" />
     </task>
     <servers />
   </component>

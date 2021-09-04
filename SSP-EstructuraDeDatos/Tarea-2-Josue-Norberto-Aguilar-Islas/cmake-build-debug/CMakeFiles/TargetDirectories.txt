@@ -1,0 +1,3 @@
+D:/proyectos/University/SSP-EstructuraDeDatos/Tarea-2-Josue-Norberto-Aguilar-Islas/cmake-build-debug/CMakeFiles/Tarea_2_Josue_Norberto_Aguilar_Islas.dir
+D:/proyectos/University/SSP-EstructuraDeDatos/Tarea-2-Josue-Norberto-Aguilar-Islas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/proyectos/University/SSP-EstructuraDeDatos/Tarea-2-Josue-Norberto-Aguilar-Islas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
