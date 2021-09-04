@@ -141,6 +141,60 @@ inventory/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/build
 .PHONY : inventory/fast
 
+GenericTypeTest.obj: GenericTypeTest.cpp.obj
+
+.PHONY : GenericTypeTest.obj
+
+# target to build an object file
+GenericTypeTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj
+.PHONY : GenericTypeTest.cpp.obj
+
+GenericTypeTest.i: GenericTypeTest.cpp.i
+
+.PHONY : GenericTypeTest.i
+
+# target to preprocess a source file
+GenericTypeTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/GenericTypeTest.cpp.i
+.PHONY : GenericTypeTest.cpp.i
+
+GenericTypeTest.s: GenericTypeTest.cpp.s
+
+.PHONY : GenericTypeTest.s
+
+# target to generate assembly for a file
+GenericTypeTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/GenericTypeTest.cpp.s
+.PHONY : GenericTypeTest.cpp.s
+
+List.obj: List.cpp.obj
+
+.PHONY : List.obj
+
+# target to build an object file
+List.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/List.cpp.obj
+.PHONY : List.cpp.obj
+
+List.i: List.cpp.i
+
+.PHONY : List.i
+
+# target to preprocess a source file
+List.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/List.cpp.i
+.PHONY : List.cpp.i
+
+List.s: List.cpp.s
+
+.PHONY : List.s
+
+# target to generate assembly for a file
+List.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\inventory.dir\build.make CMakeFiles/inventory.dir/List.cpp.s
+.PHONY : List.cpp.s
+
 logic/InventoryLogic.obj: logic/InventoryLogic.cpp.obj
 
 .PHONY : logic/InventoryLogic.obj
@@ -366,6 +420,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... inventory
+	@echo ... GenericTypeTest.obj
+	@echo ... GenericTypeTest.i
+	@echo ... GenericTypeTest.s
+	@echo ... List.obj
+	@echo ... List.i
+	@echo ... List.s
 	@echo ... logic/InventoryLogic.obj
 	@echo ... logic/InventoryLogic.i
 	@echo ... logic/InventoryLogic.s

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="radioStation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radioStation">
+				<Option output="D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/builder/radioStation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="builder"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 radioStation"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="radioStation/fast">
+				<Option output="D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/builder/radioStation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="builder"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 radioStation/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;D:/proyectos/University/EstructuraDeDatos/radioStation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/exceptions/ListException.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/MenuLogic.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/MenuLogic.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/RadioStationLogic.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/RadioStationLogic.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/SongLogic.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/SongLogic.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/utils/Utils.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/logic/utils/Utils.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/main.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/model/dto/List.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/model/dto/Menu.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/model/dto/Menu.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/model/dto/Song.cpp">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/model/dto/Song.h">
+			<Option target="radioStation"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/radioStation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

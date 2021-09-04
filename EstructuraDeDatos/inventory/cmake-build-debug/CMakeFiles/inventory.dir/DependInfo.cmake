@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/proyectos/University/EstructuraDeDatos/inventory/GenericTypeTest.cpp" "D:/proyectos/University/EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj"
+  "D:/proyectos/University/EstructuraDeDatos/inventory/List.cpp" "D:/proyectos/University/EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/List.cpp.obj"
   "D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.cpp" "D:/proyectos/University/EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj"
   "D:/proyectos/University/EstructuraDeDatos/inventory/logic/MenuLogic.cpp" "D:/proyectos/University/EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/logic/MenuLogic.cpp.obj"
   "D:/proyectos/University/EstructuraDeDatos/inventory/logic/ProductLogic.cpp" "D:/proyectos/University/EstructuraDeDatos/inventory/cmake-build-debug/CMakeFiles/inventory.dir/logic/ProductLogic.cpp.obj"

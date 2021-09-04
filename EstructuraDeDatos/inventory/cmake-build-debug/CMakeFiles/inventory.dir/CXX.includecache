@@ -6,53 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.cpp
-InventoryLogic.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.h
-iostream
--
-string
--
-vector
--
-list
--
-MenuLogic.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/MenuLogic.h
-utils/Utils.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/utils/Utils.h
-ProductLogic.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/ProductLogic.h
-
 D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.h
 ../model/include/Product.h
 D:/proyectos/University/EstructuraDeDatos/inventory/model/include/Product.h
 
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/MenuLogic.h
-
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/ProductLogic.cpp
-utils/Utils.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/utils/Utils.h
-string
--
+D:/proyectos/University/EstructuraDeDatos/inventory/main.cpp
 iostream
 -
-cstring
--
-InventoryLogic.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.h
-ProductLogic.h
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/ProductLogic.h
-
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/ProductLogic.h
-list
--
-../model/include/Product.h
-D:/proyectos/University/EstructuraDeDatos/inventory/model/include/Product.h
-
-D:/proyectos/University/EstructuraDeDatos/inventory/logic/utils/Utils.h
 string
 -
+logic/InventoryLogic.h
+D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.h
 
 D:/proyectos/University/EstructuraDeDatos/inventory/model/include/Date.h
 ctime

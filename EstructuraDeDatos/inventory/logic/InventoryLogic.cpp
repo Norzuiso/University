@@ -16,7 +16,8 @@ using namespace std;
 std::list<Product> products;
 ProductLogic productLogic;
 
-void InventoryLogic::startProject() {
+template<class T>
+void InventoryLogic<T>::startProject() {
     int option;
     productLogic = ProductLogic();
 
@@ -32,7 +33,8 @@ void InventoryLogic::startProject() {
     } while (option != 3);
 }
 
-void InventoryLogic::optionHub(int option) {
+template<class T>
+void InventoryLogic<T>::optionHub(int option) {
     switch (option) {
         case 0:
             addNewProduct();
@@ -52,7 +54,8 @@ void InventoryLogic::optionHub(int option) {
     }
 }
 
-void InventoryLogic::increaseQuantity() {
+template<class T>
+void InventoryLogic<T>::increaseQuantity() {
     if (products.size() == 0) {
         Utils::throwErrorMsg("Error, no hay productos agregados");
     } else {
@@ -67,7 +70,8 @@ void InventoryLogic::increaseQuantity() {
     }
 }
 
-void InventoryLogic::decreaseQuantity() {
+template<class T>
+void InventoryLogic<T>::decreaseQuantity() {
     if (products.size() == 0) {
         Utils::throwErrorMsg("Error, no hay productos agregados");
     } else {
@@ -83,11 +87,24 @@ void InventoryLogic::decreaseQuantity() {
     }
 }
 
-void InventoryLogic::addNewProduct() {
+template<class T>
+void InventoryLogic<T>::addNewProduct() {
     const Product &product = productLogic.createNewProduct();
     products.push_front(product);
     cout << "Producto agregado correctamente" << endl;
     productLogic.showProduct(product);
 }
 
-InventoryLogic::InventoryLogic() {}
+
+template<class T>
+InventoryLogic<T>::InventoryLogic() {}
+
+template<class T>
+T InventoryLogic<T>::getValue() const {
+    return value;
+}
+
+template<class T>
+void InventoryLogic<T>::setValue(T value) {
+    InventoryLogic::value = value;
+}

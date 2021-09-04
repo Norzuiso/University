@@ -80,6 +80,21 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/GenericTypeTest.cpp">
+			<Option target="inventory"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/GenericTypeTest.h">
+			<Option target="inventory"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/List.cpp">
+			<Option target="inventory"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/List.h">
+			<Option target="inventory"/>
+		</Unit>
+		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/exceptions/ListException.h">
+			<Option target="inventory"/>
+		</Unit>
 		<Unit filename="D:/proyectos/University/EstructuraDeDatos/inventory/logic/InventoryLogic.cpp">
 			<Option target="inventory"/>
 		</Unit>

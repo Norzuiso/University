@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj"
+  "CMakeFiles/inventory.dir/List.cpp.obj"
   "CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj"
   "CMakeFiles/inventory.dir/logic/MenuLogic.cpp.obj"
   "CMakeFiles/inventory.dir/logic/ProductLogic.cpp.obj"

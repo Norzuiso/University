@@ -179,6 +179,32 @@ CMakeFiles/inventory.dir/logic/utils/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/inventory.dir/logic/utils/Utils.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\proyectos\University\EstructuraDeDatos\inventory\logic\utils\Utils.cpp -o CMakeFiles\inventory.dir\logic\utils\Utils.cpp.s
 
+CMakeFiles/inventory.dir/List.cpp.obj: CMakeFiles/inventory.dir/flags.make
+CMakeFiles/inventory.dir/List.cpp.obj: ../List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\proyectos\University\EstructuraDeDatos\inventory\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/inventory.dir/List.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\inventory.dir\List.cpp.obj -c D:\proyectos\University\EstructuraDeDatos\inventory\List.cpp
+
+CMakeFiles/inventory.dir/List.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/inventory.dir/List.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\proyectos\University\EstructuraDeDatos\inventory\List.cpp > CMakeFiles\inventory.dir\List.cpp.i
+
+CMakeFiles/inventory.dir/List.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/inventory.dir/List.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\proyectos\University\EstructuraDeDatos\inventory\List.cpp -o CMakeFiles\inventory.dir\List.cpp.s
+
+CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj: CMakeFiles/inventory.dir/flags.make
+CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj: ../GenericTypeTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\proyectos\University\EstructuraDeDatos\inventory\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\inventory.dir\GenericTypeTest.cpp.obj -c D:\proyectos\University\EstructuraDeDatos\inventory\GenericTypeTest.cpp
+
+CMakeFiles/inventory.dir/GenericTypeTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/inventory.dir/GenericTypeTest.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\proyectos\University\EstructuraDeDatos\inventory\GenericTypeTest.cpp > CMakeFiles\inventory.dir\GenericTypeTest.cpp.i
+
+CMakeFiles/inventory.dir/GenericTypeTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/inventory.dir/GenericTypeTest.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\proyectos\University\EstructuraDeDatos\inventory\GenericTypeTest.cpp -o CMakeFiles\inventory.dir\GenericTypeTest.cpp.s
+
 # Object files for target inventory
 inventory_OBJECTS = \
 "CMakeFiles/inventory.dir/main.cpp.obj" \
@@ -188,7 +214,9 @@ inventory_OBJECTS = \
 "CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj" \
 "CMakeFiles/inventory.dir/logic/MenuLogic.cpp.obj" \
 "CMakeFiles/inventory.dir/logic/ProductLogic.cpp.obj" \
-"CMakeFiles/inventory.dir/logic/utils/Utils.cpp.obj"
+"CMakeFiles/inventory.dir/logic/utils/Utils.cpp.obj" \
+"CMakeFiles/inventory.dir/List.cpp.obj" \
+"CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj"
 
 # External object files for target inventory
 inventory_EXTERNAL_OBJECTS =
@@ -201,11 +229,13 @@ builder/inventory.exe: CMakeFiles/inventory.dir/logic/InventoryLogic.cpp.obj
 builder/inventory.exe: CMakeFiles/inventory.dir/logic/MenuLogic.cpp.obj
 builder/inventory.exe: CMakeFiles/inventory.dir/logic/ProductLogic.cpp.obj
 builder/inventory.exe: CMakeFiles/inventory.dir/logic/utils/Utils.cpp.obj
+builder/inventory.exe: CMakeFiles/inventory.dir/List.cpp.obj
+builder/inventory.exe: CMakeFiles/inventory.dir/GenericTypeTest.cpp.obj
 builder/inventory.exe: CMakeFiles/inventory.dir/build.make
 builder/inventory.exe: CMakeFiles/inventory.dir/linklibs.rsp
 builder/inventory.exe: CMakeFiles/inventory.dir/objects1.rsp
 builder/inventory.exe: CMakeFiles/inventory.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\proyectos\University\EstructuraDeDatos\inventory\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable builder\inventory.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\proyectos\University\EstructuraDeDatos\inventory\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable builder\inventory.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\inventory.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

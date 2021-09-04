@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    InventoryLogic inventoryLogic = InventoryLogic();
-    inventoryLogic.startProject();
+    class InventoryLogic<int> inventoryLogic = InventoryLogic < int > ();
+    std::cout << inventoryLogic.getValue() << std::endl;
     return 0;
 }

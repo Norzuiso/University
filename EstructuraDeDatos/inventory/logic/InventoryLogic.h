@@ -23,8 +23,10 @@ static const char *const NEW_PRODUCT = "Nuevo producto\n";
 
 #include "../model/include/Product.h"
 
+template<class T>
 class InventoryLogic {
 private:
+    T value;
 public:
     InventoryLogic();
 
@@ -39,6 +41,10 @@ public:
     static void increaseQuantity();
 
     void decreaseQuantity();
+
+    T getValue() const;
+
+    void setValue(T value);
 };
 
 

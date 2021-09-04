@@ -23,4 +23,11 @@ add_executable(inventory main.cpp
 
         logic/utils/Utils.cpp
         logic/utils/Utils.h
+
+        List.cpp
+        List.h
+        exceptions/ListException.h
+
+        GenericTypeTest.cpp
+        GenericTypeTest.h
         )
