@@ -1,0 +1,3 @@
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/cmake-build-debug/CMakeFiles/Actividad04_PilaYCola.dir
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/logic/utils/Execeptions/Exception.h
+exception
+-
+string
+-
+
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/logic/utils/Utils.cpp
+Utils.h
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/logic/utils/Utils.h
+Execeptions/Exception.h
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/logic/utils/Execeptions/Exception.h
+
+D:/proyectos/University/EstructuraDeDatos/Actividad04-PilaYCola/logic/utils/Utils.h
+string
+-
+iostream
+-
+
